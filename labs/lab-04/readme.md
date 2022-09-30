@@ -1,4 +1,4 @@
-# Lab 04: Dynamic Arrays
+# Lab 04: Linked Lists
 
 ##### Pointers & References
 
