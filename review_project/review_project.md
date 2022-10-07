@@ -28,7 +28,7 @@ This project, when successfully compiled, will aleviate that concern for this co
 - Documentation  
   - `readme.md`, includes:
     - group memebr names
-    -  a brief summary of the project and github repo address (with allowed access for viewing) for member contributions _(most easily shown through commits in the repo where your project lives)_
+    - a brief summary of the project and github repo address (with allowed access for viewing) for member contributions _(most easily shown through commits in the repo where your project lives)_
     - proof of planning: pseudocode (and or flowcharts showing program logic if desired)
     - describe features of the algorithm
       - 'what input can it take in'
@@ -38,6 +38,10 @@ This project, when successfully compiled, will aleviate that concern for this co
     - provide detailed instructions how to compile your algorithm, including:
       - how to input data
       - how to compile each/any option from your feature set
+  - Recorded Walkthrough
+    - provide a 5 - 10 minute code analysis video
+      - describe the different aspects of your code: how it works and how your group concluded on your implememntations
+      - compile your code demonstrating a working prototype using all posssible function/method calls and outputs
 - Datasets
   - Include a mock dataset for each group memeber
   - *Note: hardcoding datasets is allowed as the use of databases is not required/desired for this project.*
@@ -54,7 +58,14 @@ This project, when successfully compiled, will aleviate that concern for this co
 
 ### <u>Grading</u>
 
-Each part will be graded on a pass/fail basis and evaluated against the requirements above with the possibiltity of earning a push of 1.5%, per part, towards your overall course grade. Therefore, your performance on the project can bear no negative effect on your course grade.
+Each part will be graded on a pass/fail basis and evaluated against the requirements above. Successful submission and completion of tasks will earn...
+
+| | Added To Overall Course Grade |
+| :--: | :--: |
+| Part 1 | +2.5 |
+| Part 2 | +1.5 |
+
+Your performance on the project can bear no negative effect on your course grade. Only give a boost where for some, it may be necessary.
 
 ### <u>Tips for Success</u>
 
