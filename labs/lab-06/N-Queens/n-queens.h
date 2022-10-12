@@ -6,6 +6,7 @@ class NQueens{
         unsigned int board_size;
         std::vector<std::vector<unsigned int> > * board;
         bool solve_rec(int col);
+        bool solve_rec_col(int row);
         bool is_valid(unsigned int row, unsigned int col);
     public:
         NQueens();
